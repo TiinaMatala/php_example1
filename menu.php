@@ -10,4 +10,6 @@
       <li> <a href="first.php">Basic</a></li>
       <li> <a href="second.php">Array</a></li>
       <li> <a href="third.php">Forms</a></li>
+      <li> <a href="fourth.php">Functions</a></li>
+      <li> <a href="fifth.php">Calculator</a></li>
     </ul>
