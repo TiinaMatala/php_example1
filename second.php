@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
+<?php include "menu.php"; ?>
     <h1>Assosiative array</h1>
     <?php
     $students=array(
@@ -41,5 +35,4 @@
            ?>
         </tbody>
       </table>
-  </body>
-</html>
+<?php include "footer.php"; ?>
